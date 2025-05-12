@@ -1,0 +1,37 @@
+ColdFilter is running...
+Compiling ColdFilter with -O3 optimization flag...
+Compilation successful. Running ColdFilter...
+Hello! Program starts executing......
+-------------------------------
+
+Process: memory_kb=200KB | 
+2431002 lines: have used 0.375123 seconds
+Update Throughput: 6.48055 Mpps
+2431002 lines: have used 0.244855 seconds
+Query Throughput: 9.92833 Mpps
+-------------------------------
+
+Loglog filter is running...
+Compiling LoglogFilter with -O3 optimization flag...
+Compilation successful. Running LogLogFilter...
+Hello! Program starts executing......
+-------------------------------
+
+Process: memory_kb=200KB | 
+2431002 lines: have used 0.282646 seconds
+Update Throughput: 8.60087 Mpps
+2431002 lines: have used 0.341116 seconds
+Query Throughput: 7.12661 Mpps
+-------------------------------
+
+SwingFilter is running...
+Compiling SwingFilter with -O3 optimization flag...
+Compilation successful. Running SwingFilter...
+Process: memory_kb=200KB | 
+
+2431002 lines: have used 0.104262 seconds
+Update Throughput: 23.3163 Mpps
+2431002 lines: have used 0.124017 seconds
+Query Throughput: 19.6022 Mpps
+-------------------------------
+
